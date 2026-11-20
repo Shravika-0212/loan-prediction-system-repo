@@ -9,6 +9,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'loan-prediction-system-repo-aube.vercel.app',
+    '.vercel.app',
     'localhost',
     '127.0.0.1',
 
