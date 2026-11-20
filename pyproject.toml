@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "loan_system.asgi:application"
